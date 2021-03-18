@@ -20,6 +20,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true" alt="fredpaiva"/> 
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredpaiva42-dev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 </p>
 
 <p align="center">
