@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Frederico%20Paiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericogpaiva/)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-fredericogdpaiva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Frederico%20Paiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericogpaiva)](https://www.linkedin.com/in/welisson-luca-assun%C3%A7%C3%A2o-vilar-483697189/) [![Gmail Badge](https://img.shields.io/badge/-fredericogdpaiva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welissonluca17@gmail.com)](mailto:welissonluca17@gmail.com)
 ### Hi there 👋
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fred Paiva</h1>
