@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **fredericogdpaiva@gmail.com**
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
 
 <p align="left">
