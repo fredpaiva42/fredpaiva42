@@ -12,7 +12,7 @@
 - 📫 How to reach me **fredericogdpaiva@gmail.com**
 
 
-<p align="left">
+<p align="center">
 <img align= "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
 <img align= "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="react" width="40" height="30"/>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
