@@ -19,9 +19,9 @@
 - 📫 How to reach me **fredericogdpaiva@gmail.com**
 
 
-
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&theme=dracula&show_icons=true" alt="fredpaiva"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredpaiva42&layout-compact&langs_count=16&theme=dracula"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredpaiva42&layout-compact&langs_count=16&theme=dracula"/></p>
 
 
 <p align="center">
