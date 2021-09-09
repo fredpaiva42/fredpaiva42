@@ -8,17 +8,18 @@
 - 🔭 I’m currently working on...
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, Node, React, SQL and Python**
-
-- 📫 How to reach me **fredericogdpaiva@gmail.com**
-
-
 <p align="center">
 <img align= "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
 <img align= "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="react" width="40" height="30"/>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/></p><p align="center">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/></p><p align="center"></p>
+
+- 📫 How to reach me **fredericogdpaiva@gmail.com**
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&theme=dracula&show_icons=true" alt="fredpaiva"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredpaiva42&layout-compact&langs_count=16&theme=dracula"/></p>
 
