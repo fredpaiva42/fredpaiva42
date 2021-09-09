@@ -21,7 +21,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&theme=dracula&show_icons=true" alt="fredpaiva"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredpaiva42&layout-compact&langs_count=16&theme=dracula"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredpaiva42&layout-compact&langs_count=16&theme=dracula"/></p>
 
 
 <p align="center">
