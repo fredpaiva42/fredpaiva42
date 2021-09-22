@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fred Paiva</h1>
 <h3 align="center">A web developer and future data scientist who is starting his career</h3>
-<img align="center" src="https://www.freepik.com/free-vector/code-typing-concept-illustration_11436094.htm?query=python"/>
+<img align="center" src="https://www.freepik.com/free-vector/code-typing-concept-illustration_11436094.htm?query=python">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42" alt="fredpaiva" /> </p>
 
 - 🔭 I’m currently working on...
