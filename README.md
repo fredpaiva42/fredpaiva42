@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fred Paiva</h1>
-<img align="center" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg"/>
+<img align="center" src="https://image.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42" alt="fredpaiva" /> </p>
 
 - 🔭 I’m currently working on...
