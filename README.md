@@ -23,5 +23,5 @@
 <p align="center">
 <a href="https://twitter.com/Fredpaiva42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fredpaiva height="40" width="30" /></a>
 <a href="https://www.linkedin.com/in/FredericoGPaiva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fredpaiva" height="40" width="30" /></a>
-<a href="https://instagram.com/fredpaiva42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fredpaiva" height="40" width="30" /></a>
+<a href="https://instagram.com/fredpaiva42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fredpaiva" height="40" width="30"/></a>
 </p>
