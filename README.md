@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Frederico</h1>
-<h3 align="center">I'm 21 years old and I like technology since I was a child, I'm a Computer Technician from IFRJ and I currently have a Bachelor's Degree in Computer Science at UFF - Fluminense Federal University</h3>
+<p align="center">
+  <img src="">
+</p>
 
 <!--
 How to make the bio gif ?
-💜 Thanks to [matyo91](https://github.com/matyo91)
+Thanks to [matyo91](https://github.com/matyo91)
 I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
