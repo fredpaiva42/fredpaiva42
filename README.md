@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frederico</h1>
 <h3 align="center">I'm 21 years old and I like technology since I was a child, I'm a Computer Technician from IFRJ and I currently have a Bachelor's Degree in Computer Science at UFF - Fluminense Federal University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42&label=Profile%20views&color=0e75b6&style=flat" alt="fredpaiva42" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/fredpaiva42" target="blank"><img src="https://img.shields.io/twitter/follow/fredpaiva42?logo=twitter&style=for-the-badge" alt="fredpaiva42" /></a> </p>
 
 - 🔭 I’m currently working on **...**
