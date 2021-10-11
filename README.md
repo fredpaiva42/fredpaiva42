@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/fredpaiva42/fredpaiva42/raw/main/assets/ezgif.com-gif-maker-_4_.gif">
 </p>
 
 <!--
