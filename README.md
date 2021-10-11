@@ -15,6 +15,12 @@
 </details>
 
 <h3 align = "left"> 📊 Métricas do Github: </h3>
+<a href="https://github.com/fredpaiva42/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS"" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS" alt="fredpaiva42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true&locale=en" alt="fredpaiva42" /></p>
