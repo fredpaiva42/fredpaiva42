@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Frederico</h1>
 <h3 align="center">I'm 21 years old and I like technology since I was a child, I'm a Computer Technician from IFRJ and I currently have a Bachelor's Degree in Computer Science at UFF - Fluminense Federal University</h3>
 
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42&label=Profile%20views&color=0e75b6&style=flat" alt="fredpaiva42" /> </p>
 
 - 🌱 I’m currently learning about **Data science, Python, Machine Learning, AI and Web development.**
