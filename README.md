@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frederico</h1>
 <h3 align="center">I'm 21 years old and I like technology since I was a child, I'm a Computer Technician from IFRJ and I currently have a Bachelor's Degree in Computer Science at UFF - Fluminense Federal University</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42&label=Profile%20views&color=0e75b6&style=flat" alt="fredpaiva42" /> </p>
 
-- 🔭 I’m currently working on **...**
-
-- 🌱 I’m currently learning **Data science, Python, Machine Learning, AI and Web development.**
+- 🌱 I’m currently learning about **Data science, Python, Machine Learning, AI and Web development.**
 
 - 📫 How to reach me **fredericogdpaiva@gmail.com**
 
@@ -13,8 +12,6 @@
 <a href="https://twitter.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredpaiva42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fredericogpaiva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredericogpaiva/" height="30" width="40" /></a>
 <a href="https://instagram.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fredpaiva42" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/fredpaiva42" target="blank"><img src="https://img.shields.io/twitter/follow/fredpaiva42?logo=twitter&style=for-the-badge" alt="fredpaiva42" /></a> </p>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
