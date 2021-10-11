@@ -16,7 +16,7 @@
 
 <h3 align = "left"> 📊 Métricas do Github: </h3>
 
-<p align= "center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS" alt="fredpaiva42" />
+<p align= "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS" alt="fredpaiva42" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true&locale=en" alt="fredpaiva42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredpaiva42&" alt="fredpaiva42" /></p>
