@@ -31,13 +31,12 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredpaiva42&theme=dracula" alt="fredpaiva42" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS&theme=dracula" alt="fredpaiva42" /></p>
 </p>
-<div>
+
 <p align="center">
 <a href="https://twitter.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredpaiva42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fredericogpaiva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredericogpaiva/" height="30" width="40" /></a>
 <a href="https://instagram.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fredpaiva42" height="30" width="40" /></a>
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 </p>
-
-  ![Snake animation](https://github.com/fredpaiva42/fredpaiva42/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
 
