@@ -25,15 +25,20 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </details>
 
 <h3 align = "left"> 📊 Métricas do Github: </h3>
-
-<p align= "center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true&locale=en&theme=dracula" alt="fredpaiva42" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS&theme=dracula" alt="fredpaiva42" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredpaiva42&theme=dracula" alt="fredpaiva42" /></p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
+<p align="right">
+  <img aling="center"src="https://github.com/fredpaiva42/fredpaiva42/raw/main/assets/code.gif" width=450px>
+</p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true&locale=en&theme=dracula" alt="fredpaiva42" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredpaiva42&theme=dracula" alt="fredpaiva42" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS&theme=dracula" alt="fredpaiva42" /></p></p>
+
+
+
+<h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredpaiva42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fredericogpaiva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredericogpaiva/" height="30" width="40" /></a>
 <a href="https://instagram.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fredpaiva42" height="30" width="40" /></a>
