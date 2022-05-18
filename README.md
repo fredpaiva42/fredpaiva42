@@ -27,7 +27,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <h3 align = "left"> 📊 Métricas do Github: </h3>
 <p align="center">
-<p align= "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&show_icons=true&locale=en&theme=algolia" alt="fredpaiva42" /></p>
+<p align= "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true&locale=en&theme=algolia" alt="fredpaiva42" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredpaiva42&theme=algolia" alt="fredpaiva42" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS&theme=algolia" alt="fredpaiva42" /></p>
 </p>
