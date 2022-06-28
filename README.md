@@ -12,7 +12,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42&label=Profile%20views&color=0e75b6&style=flat" alt="fredpaiva42" /> </p>
 
-- 🌱 I’m currently learning about **Data science, Python, Java,Machine Learning, AI and Web development.**
+- 🌱 I’m currently learning about **Data science, Python, Java, Machine Learning, AI and Web development.**
 
 - 📫 How to reach me **fredericogdpaiva@gmail.com**
 
