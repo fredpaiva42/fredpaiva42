@@ -10,31 +10,48 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpaiva42&label=Profile%20views&color=0e75b6&style=flat" alt="fredpaiva42" /> </p>
+# Frederico Paiva
 
-- 🌱 I’m currently learning about **Data science, Python, Java, Machine Learning, AI and Web development.**
+Estudante de Ciência da Computação na **Universidade Federal Fluminense (UFF)**, sou formado **técnico em informática** pelo **Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)**. Tenho interesse nas áreas de **Desenvolvimento Back-End, Cibersegurança, Banco de Dados e Ciência de Dados**.
 
-- 📫 How to reach me **fredericogdpaiva@gmail.com**
+## Meus Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericogpaiva/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/fredericogdpaiva)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fredericogdpaiva@gmail.com)
+[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/fredericogdpaiva)
 
-<details>
-  <summary><b>🛠️ Languages and Tools:</b></summary>
-  <br/>
-  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
-</details>
+## Habilidades e Interesses
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+#### Me interessa aprender
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-D3D3D3?&style=for-the-badge&logo=rust&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+### Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFF)
+### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-E43C8c?style=for-the-badge&logo=clion&logoColor=white)
 
-<h3 align = "left"> 📊 Métricas do Github: </h3>
-<p align="center">
-<p align= "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredpaiva42&show_icons=true&locale=en&theme=algolia" alt="fredpaiva42" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredpaiva42&theme=algolia" alt="fredpaiva42" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpaiva42&show_icons=true&locale=en&layout=compact&hide=typescript,EJS&theme=algolia" alt="fredpaiva42" /></p>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredpaiva42&theme=monokai&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fredpaiva42&layout=compact&theme=monokai&show_icons=true)
 
-<p align="center">
-<a href="https://twitter.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredpaiva42" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fredericogpaiva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredericogpaiva/" height="30" width="40" /></a>
-<a href="https://instagram.com/fredpaiva42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fredpaiva42" height="30" width="40" /></a>
-</p>
+## Repositórios
+[![HackerRank C](https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&repo=hackerRank-C&theme=monokai&show_icons=true)](https://github.com/fredpaiva42/hackerRank-C)
+[![HackerRank Python](https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&repo=hackerRank-python&theme=monokai&show_icons=true)](https://github.com/fredpaiva42/hackerRank-python)
+[![Cat-Night](https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&repo=Cat-Night&theme=monokai&show_icons=true)](https://github.com/fredpaiva42/Cat-Night)
+[![Space-Invaders](https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&repo=Space-Invaders&theme=monokai&show_icons=true)](https://github.com/fredpaiva42/Space-Invaders)
+[![AFND-to-Tipo3](https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&repo=AFNDtoTipo3&theme=monokai&show_icons=true)](https://github.com/fredpaiva42/AFNDtoTipo3)
+[![APND](https://github-readme-stats.vercel.app/api/pin/?username=fredpaiva42&repo=automato-de-pilha&theme=monokai&show_icons=true)](https://github.com/fredpaiva42/automato-de-pilha)
   
  ![Snake animation](https://github.com/fredpaiva42/fredpaiva42/blob/output/github-contribution-grid-snake.svg)
 
